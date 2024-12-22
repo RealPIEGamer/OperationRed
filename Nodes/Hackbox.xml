@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<!-- System Info -->
+
+<Computer id="hackbox" name="Hackbox Contract Services" security="2" allowsDefaultBootModule="false" type="1">
+
+<file path="home" file="PointClicker_UserDataFarm.zip">#BINARY#</file>
+
+<!--
+ 
+TO DO:
+
+
+
+-->
+</Computer>

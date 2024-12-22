@@ -1,0 +1,20 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<!-- System Info -->
+
+<Computer id="starterchip" name="Starter Chip" security="0" allowsDefaultBootModule="false" icon="chip" type="4">
+
+
+<adminPass pass="123" />
+
+<file path="bin" name="SSHCrack.exe">#SSH_CRACK#</file>
+
+<!--
+
+TO DO:
+
+Add SSHCRACK - DONE
+add a funny note to mess with the player
+
+-->
+</Computer>

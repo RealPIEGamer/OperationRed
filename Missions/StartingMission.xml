@@ -1,0 +1,30 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="startingMission">
+  <goals>
+    <goal type="filedownload" target="starterchip" file="SSHCrack.exe" path="bin" />
+  </goals>
+  <!-- 
+  Add your mission start and end items here
+  missionStart val="0">loadConditionalActions:Actions/TestActions.xml</missionStart>
+  missionEnd val="1">addRank</missionEnd> 
+  -->
+  <nextMission>Missions/PointClicker.xml</nextMission>
+  <!-- 
+  <posting title="startingMission">This would be the post on a message board if it was on them.</posting>
+  -->
+  <email>
+    <sender>Vetrix</sender>
+    <subject>Hey.</subject>
+    <body>
+		Hey there, #PLAYERNAME#. Glad you could come with us earlier today!
+		You said you wanted to get into Hacking, network security and stuff so I thought I'd help you through starting.
+		We have no real jobs for you so we're gonna let you have a bit of fun.
+		
+		We have a Raspberry pi with some starter tools. I'll send you the IP to that, and I'll let you loose. Message me back when you have SSHCrack.exe
+	</body>
+    <attachments>
+      <link comp="starterchip" />
+	  <note title="Instructions">Connect to the raspberry Pi and use the command PortHack to gain full access to it. after that, go to the bin folder and download SSHCrack.exe!</note>
+    </attachments>
+  </email>
+</mission>

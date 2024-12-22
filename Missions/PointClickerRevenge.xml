@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="Kokun1">
+  <goals>
+    <goal type="filedeletion" path="home" file="PointClicker_UserDataFarm.zip" target="hackbox" />
+  </goals>
+  <!-- 
+  Add your mission start and end items here
+  missionStart val="0">loadConditionalActions:Actions/TestActions.xml</missionStart>
+  missionEnd val="1">addRank</missionEnd> 
+  -->
+  <nextMission>Mission\Decide.xml</nextMission>
+  <!-- 
+  <posting title="startingMission">This would be the post on a message board if it was on them.</posting>
+  -->
+  <email>
+    <sender>Kokun</sender>
+    <subject>One last thing...</subject>
+	<body>
+Someone took something from us. It was from a breach we had 2 days ago, with player data and info being farmed. I need you to delete what they have from us.
+	Do this and I might consider you for any opportunities here at Point Clicker
+	</body>
+    <attachments>
+		<link comp="hackbox" />
+		<link comp="testNode" />
+    </attachments>
+  </email>
+</mission>

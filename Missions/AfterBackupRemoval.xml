@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="Kokun1">
+  <goals>
+    <goal type="getadmin" target="pointclickeradmin" />
+  </goals>
+  <!-- 
+  Add your mission start and end items here
+  missionStart val="0">loadConditionalActions:Actions/TestActions.xml</missionStart>
+  missionEnd val="1">addRank</missionEnd> 
+  -->
+  <nextMission>Missions/PointClickerRevenge.xml</nextMission>
+  <!-- 
+  <posting title="startingMission">This would be the post on a message board if it was on them.</posting>
+  -->
+  <email>
+    <sender>Kokun</sender>
+    <subject>Seriously?</subject>
+    <body>
+		Why would you do this??? Did Vetrix send you? God Dammit! Him and I never really got along.
+		Can you help me with something? I need a pentester, can you try to find and break into the Point Clicker Admin Server please?
+		Thanks,
+		Kokun
+		Point Clicker Admin
+	</body>
+    <attachments>
+	
+    </attachments>
+  </email>
+</mission>

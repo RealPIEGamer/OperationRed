@@ -1,0 +1,9 @@
+<ConditionalActions>
+  
+  <Instantly>
+    
+    <RunFunction FunctionName="setFaction:introfac" FunctionValue="0" />
+    
+  </Instantly>
+
+</ConditionalActions>

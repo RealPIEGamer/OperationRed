@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<!-- System Info -->
+
+<Computer id="mcserver1" name="Kokun's Minecraft Server" security="0" allowsDefaultBootModule="false" icon="chip" type="1">
+
+<ports>22, 554</ports>
+
+<portRemap>554=25565</portRemap>
+
+
+<adminPass pass="mcserver" />
+
+<dlink target="kokunpc" />
+
+<!--
+ 
+TO DO:
+
+
+
+-->
+</Computer>

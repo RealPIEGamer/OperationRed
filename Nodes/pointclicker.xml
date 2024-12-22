@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<!-- System Info -->
+
+<Computer id="pointclicker" name="PointClicker" security="0" allowsDefaultBootModule="true" type="3">
+
+
+<adminPass pass="PCAdmin" />
+<account username="Kokun" password="P4SSW0RD" type="ADMIN" />
+<account username="Mengsk" password="changeme" type="ADMIN"/>
+<account username="admINAGBUIBGUBAUGBOUABOUBOABGOIASBG" password="bruhbrohdshdfhdfshdfshfdhd" type="ADMIN" />
+
+<file path="AdminSaves" name="kokun.pcsav">#BINARY_SMALL#</file>
+<file path="AdminSaves" name="Mengsk.pcsav">#BINARY_SMALL#</file>
+
+
+<PointClicker />
+
+<dlink target="pointclickerbackup" />
+
+<!--
+ 
+TO DO:
+
+	Make an admin account for user Kokun  [COMPLETED]
+	file deletion mission for kokun.pcsav 
+
+-->
+</Computer>

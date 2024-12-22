@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<!-- System Info -->
+
+<Computer id="schoolcomputer1" name="Student Computer" security="0" allowsDefaultBootModule="false" icon="chip" type="4">
+
+
+<adminPass pass="studentPassword" />
+
+
+
+<!--
+ 
+TO DO:
+
+
+
+-->
+</Computer>

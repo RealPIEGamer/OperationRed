@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<!-- System Info -->
+
+<Computer id="kokunpc" name="Kokun's Computer" security="1" allowsDefaultBootModule="false" icon="laptop" type="2">
+
+<adminPass pass="BestPointClicker_Admin1!" />
+
+<file path="bin" name="RTSP_MultiTool.exe">#RTSP_EXE#</file>
+
+<dlink target="mcserver1" />
+<dlink target="pointclickeradmin" />
+
+<!--
+ 
+TO DO:
+
+
+
+-->
+</Computer>

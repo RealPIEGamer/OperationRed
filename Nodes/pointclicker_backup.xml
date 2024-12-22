@@ -1,0 +1,30 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<!-- System Info -->
+
+<Computer id="pointclickerbackup" name="PointClicker Backup server" security="1" allowsDefaultBootModule="true" type="3">
+
+
+<adminPass pass="PCAdmin_Backup" />
+<account username="Kokun" password="P4SSW0RD" type="ADMIN" />
+<account username="Mengsk" password="changeme" type="ADMIN"/>
+<account username="admINAGBUIBGUBAUGBOUABOUBOABGOIASBG" password="bruhbrohdshdfhdfshdfshfdhd" type="ADMIN" />
+
+<file path="AdminSaves" name="kokun.pcsav">#BINARY_SMALL#</file>
+<file path="AdminSaves" name="Mengsk.pcsav">#BINARY_SMALL#</file>
+
+<portsForCrack val="1" />
+
+<PointClicker />
+
+<dlink target="pointclicker" />
+<dlink target="pointclickeradmin" />
+
+<!--
+ 
+TO DO:
+
+
+
+-->
+</Computer>

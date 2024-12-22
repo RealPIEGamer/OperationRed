@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<!-- System Info -->
+
+<Computer id="pointclickeradmin" name="PointClicker Admin Server" security="1" allowsDefaultBootModule="false" icon="laptop" type="2">
+
+<adminPass pass="PointClicker" />
+
+<file path="home" name="chat.txt">Kokun:Thanks for having me on the team.
+???:No problem. Look, I'll be gone for a while, please watch everything over for me.
+Kokun:I got you, I'll keep everything under control until you come back.
+
+[??? Disconnected]
+
+[Kokun Disconnected]
+
+- this log takes place 3 years ago -</file>
+
+<dlink target="pointclickerbackup" />
+<dlink target="kokunpc" />
+
+<!--
+ 
+TO DO:
+
+
+
+-->
+</Computer>

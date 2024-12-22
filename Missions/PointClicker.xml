@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="pointClicker">
+  <goals>
+    <goal type="filedeletion" target="pointclicker" file="kokun.pcsav" path="/AdminSaves" />
+  </goals>
+  <!-- 
+  Add your mission start and end items here
+  missionStart val="0">loadConditionalActions:Actions/TestActions.xml</missionStart>
+  missionEnd val="1">addRank</missionEnd> 
+  -->
+  <nextMission>Missions/RemoveBackup.xml</nextMission>
+  <!-- 
+  <posting title="startingMission">This would be the post on a message board if it was on them.</posting>
+  -->
+  <email>
+    <sender>Vetrix</sender>
+    <subject>PointClicker</subject>
+    <body>
+		Alright, time for your first "job".
+		I've provided a link to a game called PointClicker. I want you to delete the save file of an admin named Kokun, just to mess with him.
+		Hopefully this should put a stop to his toxicity.
+	</body>
+    <attachments>
+	  <link comp="pointclicker" />
+	  <note title="Instructions">Connect to PointClicker and use the file you downloaded to gain access and delete Kokun's save file.</note>
+    </attachments>
+  </email>
+</mission>

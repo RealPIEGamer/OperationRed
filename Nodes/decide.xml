@@ -1,0 +1,20 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<!-- System Info -->
+
+<Computer id="decide" name="Thoughts" security="100" allowsDefaultBootModule="false" icon="chip" type="1">
+
+
+
+
+<missionHubServer groupName="FriendGroup" serviceName="Your Thoughts" missionFolderPath="Missions/Decide" themeColor="0, 0, 200" lineColor="0, 0, 200" backgroundColor="0, 0, 200" allowAbandon="false" /> 
+
+
+<!--
+ 
+TO DO:
+
+
+
+-->
+</Computer>

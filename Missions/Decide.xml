@@ -1,0 +1,25 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="removeBackup">
+  <goals>
+    
+  </goals>
+  <!-- 
+  Add your mission start and end items here
+  missionStart val="0">loadConditionalActions:Actions/TestActions.xml</missionStart>
+  missionEnd val="1">addRank</missionEnd> 
+  -->
+  <nextMission>NONE</nextMission>
+  <!-- 
+  <posting title="startingMission">This would be the post on a message board if it was on them.</posting>
+  -->
+  <email>
+    <sender>You</sender>
+    <subject>I need to decide.</subject>
+    <body>
+		
+	</body>
+    <attachments>
+      <link comp="decide" />
+    </attachments>
+  </email>
+</mission>

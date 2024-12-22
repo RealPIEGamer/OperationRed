@@ -1,0 +1,22 @@
+config playerComp pointclicker 0.2 $#%#$
+flash $#%#$
+flash $#%#$
+flash $#%#$
+stopMusic $#%#$
+writel ARE YOU FUCKING SERIOUS? DIDNT THINK I'D FUCKING FIND YOU? FUCK OFF! $#%#$
+connect $#%#$
+delay 3 $#%#$
+openPort 21 $#%#$
+delay 5 $#%#$
+openPort 22 $#%#$
+delay 5 $#%#$
+openPort 80 $#%#$
+delay 5 $#%#$
+openPort 25 $#%#$
+delay 5 $#%#$
+hideDisplay $#%#$
+hideTerminal $#%#$
+forkbomb $#%#$
+delay 3 $#%#$
+showDisplay $#%#$
+showTerminal $#%#$

@@ -1,0 +1,12 @@
+Errors Found. Writing report to Extensions/OPERATIONRED_2/report.txt
+
+
+START MISSION READ ERRORS:
+Extensions/OPERATIONRED_2/Missions/PointClickerRevenge.xml Goal[0] Hacknet.Mission.FileDeletionMission :: File to delete (home/PointClicker_UserDataFarm.zip) does not exist!
+--------------
+Error Loading Mission: Extensions/OPERATIONRED_2/Missions\Good\findmengsk.xml
+
+Root element is missing. 
+ 
+Source : System.Xml  ::  System.Xml.XmlException
+
